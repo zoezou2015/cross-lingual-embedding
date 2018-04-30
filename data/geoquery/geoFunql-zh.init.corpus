@@ -1,0 +1,768 @@
+id:-1
+nl:弗吉尼亚
+mrl:
+productions:
+*n:StateName -> ({ ' virginia ' })
+
+id:-2
+nl:密西西比
+mrl:
+productions:
+*n:StateName -> ({ ' mississippi ' })
+
+id:-3
+nl:阿肯色
+mrl:
+productions:
+*n:StateName -> ({ ' arkansas ' })
+
+id:-4
+nl:科罗拉多
+mrl:
+productions:
+*n:StateName -> ({ ' colorado ' })
+
+id:-5
+nl:德克萨斯
+mrl:
+productions:
+*n:StateName -> ({ ' texas ' })
+
+id:-6
+nl:德
+mrl:
+productions:
+*n:StateName -> ({ ' texas ' })
+
+id:-7
+nl:得克萨斯
+mrl:
+productions:
+*n:StateName -> ({ ' texas ' })
+
+id:-8
+nl:俄勒冈
+mrl:
+productions:
+*n:StateName -> ({ ' oregon ' })
+
+id:-9
+nl:阿拉巴马
+mrl:
+productions:
+*n:StateName -> ({ ' alabama ' })
+
+id:-10
+nl:这个 国家
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-11
+nl:美国
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-12
+nl:加
+mrl:
+productions:
+*n:StateName -> ({ ' california ' })
+
+id:-13
+nl:加利福尼亚
+mrl:
+productions:
+*n:StateName -> ({ ' california ' })
+
+id:-14
+nl:犹他
+mrl:
+productions:
+*n:StateName -> ({ ' utah ' })
+
+id:-15
+nl:阿拉斯加
+mrl:
+productions:
+*n:StateName -> ({ ' alaska ' })
+
+id:-16
+nl:马萨诸塞
+mrl:
+productions:
+*n:StateName -> ({ ' massachusetts ' })
+
+id:-17
+nl:新墨西哥
+mrl:
+productions:
+*n:StateName -> ({ ' new mexico ' })
+
+id:-18
+nl:北达科他
+mrl:
+productions:
+*n:StateName -> ({ ' north dakota ' })
+
+id:-19
+nl:纽约
+mrl:
+productions:
+*n:CityName -> ({ ' new york ' })
+
+id:-20
+nl:瓜峰
+mrl:
+productions:
+*n:PlaceName -> ({ ' guadalupe peak ' })
+
+id:-21
+nl:麦金利 山
+mrl:
+productions:
+*n:PlaceName -> ({ ' mount mckinley ' })
+
+id:-22
+nl:蒙大拿
+mrl:
+productions:
+*n:StateName -> ({ ' montana ' })
+
+id:-23
+nl:特拉华
+mrl:
+productions:
+*n:StateName -> ({ ' delaware ' })
+
+id:-24
+nl:佛罗里达
+mrl:
+productions:
+*n:StateName -> ({ ' florida ' })
+
+id:-25
+nl:路易斯安那
+mrl:
+productions:
+*n:StateName -> ({ ' louisiana ' })
+
+id:-26
+nl:里奥格兰德
+mrl:
+productions:
+*n:RiverName -> ({ ' rio grande ' })
+
+id:-27
+nl:格兰德
+mrl:
+productions:
+*n:RiverName -> ({ ' rio grande ' })
+
+id:-28
+nl:科罗拉多
+mrl:
+productions:
+*n:RiverName -> ({ ' colorado ' })
+
+id:-29
+nl:特拉华
+mrl:
+productions:
+*n:RiverName -> ({ ' delaware ' })
+
+id:-30
+nl:密西西比
+mrl:
+productions:
+*n:RiverName -> ({ ' mississippi ' })
+
+id:-31
+nl:密苏里
+mrl:
+productions:
+*n:RiverName -> ({ ' missouri ' })
+
+id:-32
+nl:北普拉特
+mrl:
+productions:
+*n:RiverName -> ({ ' north platte ' })
+
+id:-33
+nl:俄亥俄
+mrl:
+productions:
+*n:RiverName -> ({ ' ohio ' })
+
+id:-34
+nl:宾夕法尼亚
+mrl:
+productions:
+*n:StateName -> ({ ' pennsylvania ' })
+
+id:-35
+nl:罗得岛
+mrl:
+productions:
+*n:StateName -> ({ ' rhode island ' })
+
+id:-36
+nl:罗德岛
+mrl:
+productions:
+*n:StateName -> ({ ' rhode island ' })
+
+id:-37
+nl:奥斯汀
+mrl:
+productions:
+*n:CityName -> ({ ' austin ' })
+
+id:-38
+nl:博尔德
+mrl:
+productions:
+*n:CityName -> ({ ' boulder ' })
+
+id:-39
+nl:蒙哥马利
+mrl:
+productions:
+*n:CityName -> ({ ' montgomery ' })
+
+id:-40
+nl:亚利桑那
+mrl:
+productions:
+*n:StateName -> ({ ' arizona ' })
+
+id:-41
+nl:内布拉斯加
+mrl:
+productions:
+*n:StateName -> ({ ' nebraska ' })
+
+id:-42
+nl:俄亥俄
+mrl:
+productions:
+*n:StateName -> ({ ' ohio ' })
+
+id:-43
+nl:内华达
+mrl:
+productions:
+*n:StateName -> ({ ' nevada ' })
+
+id:-44
+nl:爱荷华
+mrl:
+productions:
+*n:StateName -> ({ ' iowa ' })
+
+id:-45
+nl:艾奥瓦
+mrl:
+productions:
+*n:StateName -> ({ ' iowa ' })
+
+id:-46
+nl:纽约
+mrl:
+productions:
+*n:StateName -> ({ ' new york ' })
+
+id:-47
+nl:得克萨斯
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' tx ' })
+
+id:-48
+nl:芝加哥
+mrl:
+productions:
+*n:CityName -> ({ ' chicago ' })
+
+id:-49
+nl:底特律
+mrl:
+productions:
+*n:CityName -> ({ ' detroit ' })
+
+id:-50
+nl:夏威夷
+mrl:
+productions:
+*n:StateName -> ({ ' hawaii ' })
+
+id:-51
+nl:休斯敦
+mrl:
+productions:
+*n:CityName -> ({ ' houston ' })
+
+id:-52
+nl:休斯顿
+mrl:
+productions:
+*n:CityName -> ({ ' houston ' })
+
+id:-53
+nl:卡拉马祖
+mrl:
+productions:
+*n:CityName -> ({ ' kalamazoo ' })
+
+id:-54
+nl:堪萨斯
+mrl:
+productions:
+*n:StateName -> ({ ' kansas ' })
+
+id:-55
+nl:明尼阿波利斯
+mrl:
+productions:
+*n:CityName -> ({ ' minneapolis ' })
+
+id:-56
+nl:明尼苏达
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' mn ' })
+
+id:-57
+nl:新罕布什尔
+mrl:
+productions:
+*n:StateName -> ({ ' new hampshire ' })
+
+id:-58
+nl:里弗赛德斯塔特
+mrl:
+productions:
+*n:CityName -> ({ ' riverside ' })
+
+id:-59
+nl:旧金山
+mrl:
+productions:
+*n:CityName -> ({ ' san francisco ' })
+
+id:-60
+nl:南达科他
+mrl:
+productions:
+*n:StateName -> ({ ' south dakota ' })
+
+id:-61
+nl:斯波坎
+mrl:
+productions:
+*n:CityName -> ({ ' spokane ' })
+
+id:-62
+nl:华盛顿
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' wa ' })
+
+id:-63
+nl:佐治亚
+mrl:
+productions:
+*n:StateName -> ({ ' georgia ' })
+
+id:-64
+nl:怀俄明
+mrl:
+productions:
+*n:StateName -> ({ ' wyoming ' })
+
+id:-65
+nl:华盛顿
+mrl:
+productions:
+*n:StateName -> ({ ' washington ' })
+
+id:-66
+nl:华盛顿
+mrl:
+productions:
+*n:CityName -> ({ ' washington ' })
+
+id:-67
+nl:特区
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' dc ' })
+
+id:-68
+nl:密苏里
+mrl:
+productions:
+*n:StateName -> ({ ' missouri ' })
+
+id:-69
+nl:爱达荷
+mrl:
+productions:
+*n:StateName -> ({ ' idaho ' })
+
+id:-70
+nl:奥尔巴尼
+mrl:
+productions:
+*n:CityName -> ({ ' albany ' })
+
+id:-71
+nl:红
+mrl:
+productions:
+*n:RiverName -> ({ ' red ' })
+
+id:-72
+nl:波士顿
+mrl:
+productions:
+*n:CityName -> ({ ' boston ' })
+
+id:-73
+nl:田纳西
+mrl:
+productions:
+*n:StateName -> ({ ' tennessee ' })
+
+id:-74
+nl:罗切斯特
+mrl:
+productions:
+*n:CityName -> ({ ' rochester ' })
+
+id:-75
+nl:斯普林菲尔德
+mrl:
+productions:
+*n:CityName -> ({ ' springfield ' })
+
+id:-76
+nl:密歇根
+mrl:
+productions:
+*n:StateName -> ({ ' michigan ' })
+
+id:-77
+nl:萨克拉门托
+mrl:
+productions:
+*n:CityName -> ({ ' sacramento ' })
+
+id:-78
+nl:圣安东尼奥
+mrl:
+productions:
+*n:CityName -> ({ ' san antonio ' })
+
+id:-79
+nl:北卡罗来纳
+mrl:
+productions:
+*n:StateName -> ({ ' north carolina ' })
+
+id:-80
+nl:俄克拉荷马
+mrl:
+productions:
+*n:StateName -> ({ ' oklahoma ' })
+
+id:-81
+nl:佛蒙特
+mrl:
+productions:
+*n:StateName -> ({ ' vermont ' })
+
+id:-82
+nl:伊利诺伊
+mrl:
+productions:
+*n:StateName -> ({ ' illinois ' })
+
+id:-83
+nl:印第安纳
+mrl:
+productions:
+*n:StateName -> ({ ' indiana ' })
+
+id:-84
+nl:波托马克
+mrl:
+productions:
+*n:RiverName -> ({ ' potomac ' })
+
+id:-85
+nl:缅因
+mrl:
+productions:
+*n:StateName -> ({ ' maine ' })
+
+id:-86
+nl:马里兰
+mrl:
+productions:
+*n:StateName -> ({ ' maryland ' })
+
+id:-87
+nl:西雅图
+mrl:
+productions:
+*n:CityName -> ({ ' seattle ' })
+
+id:-88
+nl:南卡罗来纳
+mrl:
+productions:
+*n:StateName -> ({ ' south carolina ' })
+
+id:-89
+nl:威斯康星
+mrl:
+productions:
+*n:StateName -> ({ ' wisconsin ' })
+
+id:-90
+nl:新泽西
+mrl:
+productions:
+*n:StateName -> ({ ' new jersey ' })
+
+id:-91
+nl:达勒姆
+mrl:
+productions:
+*n:CityName -> ({ ' durham ' })
+
+id:-92
+nl:死亡谷
+mrl:
+productions:
+*n:PlaceName -> ({ ' death valley ' })
+
+id:-93
+nl:海平面
+mrl:
+productions:
+*n:Num -> ({ ' 0 ' })
+
+id:-94
+nl:德梅因
+mrl:
+productions:
+*n:CityName -> ({ ' des moines ' })
+
+id:-95
+nl:明尼苏达
+mrl:
+productions:
+*n:StateName -> ({ ' minnesota ' })
+
+id:-96
+nl:肯塔基
+mrl:
+productions:
+*n:StateName -> ({ ' kentucky ' })
+
+id:-97
+nl:亚特兰大
+mrl:
+productions:
+*n:CityName -> ({ ' atlanta ' })
+
+id:-98
+nl:佐治亚
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' ga ' })
+
+id:-99
+nl:马萨诸塞
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' ma ' })
+
+id:-100
+nl:达拉斯
+mrl:
+productions:
+*n:CityName -> ({ ' dallas ' })
+
+id:-101
+nl:丹佛
+mrl:
+productions:
+*n:CityName -> ({ ' denver ' })
+
+id:-102
+nl:伊利
+mrl:
+productions:
+*n:CityName -> ({ ' erie ' })
+
+id:-103
+nl:宾夕法尼亚
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' pa ' })
+
+id:-104
+nl:波特兰
+mrl:
+productions:
+*n:CityName -> ({ ' portland ' })
+
+id:-105
+nl:缅因
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' me ' })
+
+id:-106
+nl:密苏里
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' mo ' })
+
+id:-107
+nl:南达科他
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' sd ' })
+
+id:-108
+nl:坦佩
+mrl:
+productions:
+*n:CityName -> ({ ' tempe ' })
+
+id:-109
+nl:亚利桑那
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' az ' })
+
+id:-110
+nl:图森
+mrl:
+productions:
+*n:CityName -> ({ ' tucson ' })
+
+id:-111
+nl:西弗吉尼亚
+mrl:
+productions:
+*n:StateName -> ({ ' west virginia ' })
+
+id:-112
+nl:塞勒姆
+mrl:
+productions:
+*n:CityName -> ({ ' salem ' })
+
+id:-113
+nl:弗林特
+mrl:
+productions:
+*n:CityName -> ({ ' flint ' })
+
+id:-114
+nl:哥伦布
+mrl:
+productions:
+*n:CityName -> ({ ' columbus ' })
+
+id:-115
+nl:迈阿密
+mrl:
+productions:
+*n:CityName -> ({ ' miami ' })
+
+id:-116
+nl:匹兹堡
+mrl:
+productions:
+*n:CityName -> ({ ' pittsburgh ' })
+
+id:-117
+nl:多佛
+mrl:
+productions:
+*n:CityName -> ({ ' dover ' })
+
+id:-118
+nl:普莱诺
+mrl:
+productions:
+*n:CityName -> ({ ' plano ' })
+
+id:-119
+nl:盐湖城
+mrl:
+productions:
+*n:CityName -> ({ ' salt lake city ' })
+
+id:-120
+nl:巴吞鲁日
+mrl:
+productions:
+*n:CityName -> ({ ' baton rouge ' })
+
+id:-121
+nl:韦恩堡
+mrl:
+productions:
+*n:CityName -> ({ ' fort wayne ' })
+
+id:-122
+nl:印第安纳波利斯
+mrl:
+productions:
+*n:CityName -> ({ ' indianapolis ' })
+
+id:-123
+nl:惠特尼
+mrl:
+productions:
+*n:PlaceName -> ({ ' mount whitney ' })
+
+id:-124
+nl:新奥尔良
+mrl:
+productions:
+*n:CityName -> ({ ' new orleans ' })
+
+id:-125
+nl:圣地亚哥
+mrl:
+productions:
+*n:CityName -> ({ ' san diego ' })
+
+id:-126
+nl:圣何塞
+mrl:
+productions:
+*n:CityName -> ({ ' san jose ' })
+
+id:-127
+nl:斯科茨瓦利
+mrl:
+productions:
+*n:CityName -> ({ ' scotts valley ' })
+
+id:-128
+nl:查塔胡奇
+mrl:
+productions:
+*n:RiverName -> ({ ' chattahoochee ' })
+

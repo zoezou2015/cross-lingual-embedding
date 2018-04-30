@@ -1,0 +1,1044 @@
+id:-1
+nl:ویرجینیا
+mrl:
+productions:
+*n:StateName -> ({ ' virginia ' })
+
+id:-2
+nl:میسیسیپی
+mrl:
+productions:
+*n:StateName -> ({ ' mississippi ' })
+
+id:-3
+nl:می سی سی پی
+mrl:
+productions:
+*n:StateName -> ({ ' mississippi ' })
+
+id:-4
+nl:آرکانزاس
+mrl:
+productions:
+*n:StateName -> ({ ' arkansas ' })
+
+id:-5
+nl:کلرادو
+mrl:
+productions:
+*n:StateName -> ({ ' colorado ' })
+
+id:-6
+nl:کلورادو
+mrl:
+productions:
+*n:StateName -> ({ ' colorado ' })
+
+id:-7
+nl:تگزاس
+mrl:
+productions:
+*n:StateName -> ({ ' texas ' })
+
+id:-8
+nl:تکزاس
+mrl:
+productions:
+*n:StateName -> ({ ' texas ' })
+
+id:-9
+nl:اورگان
+mrl:
+productions:
+*n:StateName -> ({ ' oregon ' })
+
+id:-10
+nl:ارگون
+mrl:
+productions:
+*n:StateName -> ({ ' oregon ' })
+
+id:-11
+nl:آلاباما
+mrl:
+productions:
+*n:StateName -> ({ ' alabama ' })
+
+id:-12
+nl:ارگون
+mrl:
+productions:
+*n:StateName -> ({ ' alabama ' })
+
+id:-13
+nl:ایالات متحده آمریکا
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-14
+nl:ایالات متحده
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-15
+nl:آمریکا
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-16
+nl:ایالات متحده امریکا
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-17
+nl:کشور
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-18
+nl:ایالات متحد
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-19
+nl:قاره امریکا
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-20
+nl:ایالت
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-21
+nl:ایالتی
+mrl:
+productions:
+*n:CountryName -> ({ ' usa ' })
+
+id:-22
+nl:کالیفرنیا
+mrl:
+productions:
+*n:StateName -> ({ ' california ' })
+
+id:-23
+nl:یوتا
+mrl:
+productions:
+*n:StateName -> ({ ' utah ' })
+
+id:-24
+nl:در یوتاه
+mrl:
+productions:
+*n:StateName -> ({ ' utah ' })
+
+id:-25
+nl:یوتاه
+mrl:
+productions:
+*n:StateName -> ({ ' utah ' })
+
+id:-26
+nl:آلاسکا
+mrl:
+productions:
+*n:StateName -> ({ ' alaska ' })
+
+id:-27
+nl:الاسکا
+mrl:
+productions:
+*n:StateName -> ({ ' alaska ' })
+
+id:-28
+nl:ماساچوست
+mrl:
+productions:
+*n:StateName -> ({ ' massachusetts ' })
+
+id:-29
+nl:نیومکزیکو
+mrl:
+productions:
+*n:StateName -> ({ ' new mexico ' })
+
+id:-30
+nl:داکوتای شمالی
+mrl:
+productions:
+*n:StateName -> ({ ' north dakota ' })
+
+id:-31
+nl:نورث داکوتا
+mrl:
+productions:
+*n:StateName -> ({ ' north dakota ' })
+
+id:-32
+nl:نیویورک
+mrl:
+productions:
+*n:CityName -> ({ ' new york ' })
+
+id:-33
+nl:قله گوادالوپ
+mrl:
+productions:
+*n:PlaceName -> ({ ' guadalupe peak ' })
+
+id:-34
+nl:مک کینلی
+mrl:
+productions:
+*n:PlaceName -> ({ ' mount mckinley ' })
+
+id:-35
+nl:مونتانا
+mrl:
+productions:
+*n:StateName -> ({ ' montana ' })
+
+id:-36
+nl:دلاور
+mrl:
+productions:
+*n:StateName -> ({ ' delaware ' })
+
+id:-37
+nl:فلوریدا
+mrl:
+productions:
+*n:StateName -> ({ ' florida ' })
+
+id:-38
+nl:لوئیزیانا
+mrl:
+productions:
+*n:StateName -> ({ ' louisiana ' })
+
+id:-39
+nl:لوزانیا
+mrl:
+productions:
+*n:StateName -> ({ ' louisiana ' })
+
+id:-40
+nl:ریوگرانده
+mrl:
+productions:
+*n:RiverName -> ({ ' rio grande ' })
+
+id:-41
+nl:کلرادو
+mrl:
+productions:
+*n:RiverName -> ({ ' colorado ' })
+
+id:-42
+nl:کلورادو
+mrl:
+productions:
+*n:RiverName -> ({ ' colorado ' })
+
+id:-43
+nl:دلاور
+mrl:
+productions:
+*n:RiverName -> ({ ' delaware ' })
+
+id:-44
+nl:میسیسیپی
+mrl:
+productions:
+*n:RiverName -> ({ ' mississippi ' })
+
+id:-45
+nl:میسیپی
+mrl:
+productions:
+*n:RiverName -> ({ ' mississippi ' })
+
+id:-46
+nl:می سی سی پی
+mrl:
+productions:
+*n:RiverName -> ({ ' mississippi ' })
+
+id:-47
+nl:تگزاس
+mrl:
+productions:
+*n:RiverName -> ({ ' mississippi ' })
+
+id:-48
+nl:میسیسپی
+mrl:
+productions:
+*n:RiverName -> ({ ' mississippi ' })
+
+id:-49
+nl:میسوری
+mrl:
+productions:
+*n:RiverName -> ({ ' missouri ' })
+
+id:-50
+nl:پلت شمالی
+mrl:
+productions:
+*n:RiverName -> ({ ' north platte ' })
+
+id:-51
+nl:نورث بلات
+mrl:
+productions:
+*n:RiverName -> ({ ' north platte ' })
+
+id:-52
+nl:اوهایو
+mrl:
+productions:
+*n:RiverName -> ({ ' ohio ' })
+
+id:-53
+nl:پنسیلوانیا
+mrl:
+productions:
+*n:StateName -> ({ ' pennsylvania ' })
+
+id:-54
+nl:پنلسیلوانیا
+mrl:
+productions:
+*n:StateName -> ({ ' pennsylvania ' })
+
+id:-55
+nl:پنسلیوانیا
+mrl:
+productions:
+*n:StateName -> ({ ' pennsylvania ' })
+
+id:-56
+nl:رودآیلند
+mrl:
+productions:
+*n:StateName -> ({ ' rhode island ' })
+
+id:-57
+nl:اکلاهما
+mrl:
+productions:
+*n:StateName -> ({ ' rhode island ' })
+
+id:-58
+nl:رودایلند
+mrl:
+productions:
+*n:StateName -> ({ ' rhode island ' })
+
+id:-59
+nl:رود آیلند
+mrl:
+productions:
+*n:StateName -> ({ ' rhode island ' })
+
+id:-60
+nl:آستین
+mrl:
+productions:
+*n:CityName -> ({ ' austin ' })
+
+id:-61
+nl:آسیتن
+mrl:
+productions:
+*n:CityName -> ({ ' austin ' })
+
+id:-62
+nl:مین
+mrl:
+productions:
+*n:CityName -> ({ ' austin ' })
+
+id:-63
+nl:بولدر
+mrl:
+productions:
+*n:CityName -> ({ ' boulder ' })
+
+id:-64
+nl:مونتگمری
+mrl:
+productions:
+*n:CityName -> ({ ' montgomery ' })
+
+id:-65
+nl:آریزونا
+mrl:
+productions:
+*n:StateName -> ({ ' arizona ' })
+
+id:-66
+nl:نبراسکا
+mrl:
+productions:
+*n:StateName -> ({ ' nebraska ' })
+
+id:-67
+nl:اوهایو
+mrl:
+productions:
+*n:StateName -> ({ ' ohio ' })
+
+id:-68
+nl:نوادا
+mrl:
+productions:
+*n:StateName -> ({ ' nevada ' })
+
+id:-69
+nl:نبراسکا
+mrl:
+productions:
+*n:StateName -> ({ ' nevada ' })
+
+id:-70
+nl:آیووا
+mrl:
+productions:
+*n:StateName -> ({ ' iowa ' })
+
+id:-71
+nl:نیویورک
+mrl:
+productions:
+*n:StateName -> ({ ' new york ' })
+
+id:-72
+nl:نیویوک
+mrl:
+productions:
+*n:StateName -> ({ ' new york ' })
+
+id:-73
+nl:تگزاس
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' tx ' })
+
+id:-74
+nl:شیکاگو
+mrl:
+productions:
+*n:CityName -> ({ ' chicago ' })
+
+id:-75
+nl:دترویت
+mrl:
+productions:
+*n:CityName -> ({ ' detroit ' })
+
+id:-76
+nl:هاوایی
+mrl:
+productions:
+*n:StateName -> ({ ' hawaii ' })
+
+id:-77
+nl:هوستون
+mrl:
+productions:
+*n:CityName -> ({ ' houston ' })
+
+id:-78
+nl:کالامازو
+mrl:
+productions:
+*n:CityName -> ({ ' kalamazoo ' })
+
+id:-79
+nl:کانزاس
+mrl:
+productions:
+*n:StateName -> ({ ' kansas ' })
+
+id:-80
+nl:مینیاپولیس
+mrl:
+productions:
+*n:CityName -> ({ ' minneapolis ' })
+
+id:-81
+nl:مینه سوتا
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' mn ' })
+
+id:-82
+nl:مینیاپولیس مینهسوتا
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' mn ' })
+
+id:-83
+nl:نیوهمپشایر
+mrl:
+productions:
+*n:StateName -> ({ ' new hampshire ' })
+
+id:-84
+nl:نیو همپشایر
+mrl:
+productions:
+*n:StateName -> ({ ' new hampshire ' })
+
+id:-85
+nl:رایورساید
+mrl:
+productions:
+*n:CityName -> ({ ' riverside ' })
+
+id:-86
+nl:سانفرانسیسکو
+mrl:
+productions:
+*n:CityName -> ({ ' san francisco ' })
+
+id:-87
+nl:داکوتای جنوبی
+mrl:
+productions:
+*n:StateName -> ({ ' south dakota ' })
+
+id:-88
+nl:سوت داکوتا
+mrl:
+productions:
+*n:StateName -> ({ ' south dakota ' })
+
+id:-89
+nl:اسپوکین
+mrl:
+productions:
+*n:CityName -> ({ ' spokane ' })
+
+id:-90
+nl:واشنگتن
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' wa ' })
+
+id:-91
+nl:جورجیا
+mrl:
+productions:
+*n:StateName -> ({ ' georgia ' })
+
+id:-92
+nl:وایومینگ
+mrl:
+productions:
+*n:StateName -> ({ ' wyoming ' })
+
+id:-93
+nl:ویومینگ
+mrl:
+productions:
+*n:StateName -> ({ ' wyoming ' })
+
+id:-94
+nl:واشنگتن
+mrl:
+productions:
+*n:StateName -> ({ ' washington ' })
+
+id:-95
+nl:وایومینگ دی سی
+mrl:
+productions:
+*n:StateName -> ({ ' washington ' })
+
+id:-96
+nl:واشنگتن
+mrl:
+productions:
+*n:CityName -> ({ ' washington ' })
+
+id:-97
+nl:وایومینگ دی سی
+mrl:
+productions:
+*n:CityName -> ({ ' washington ' })
+
+id:-98
+nl:دی سی
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' dc ' })
+
+id:-99
+nl:میسوری
+mrl:
+productions:
+*n:StateName -> ({ ' missouri ' })
+
+id:-100
+nl:مسیوری
+mrl:
+productions:
+*n:StateName -> ({ ' missouri ' })
+
+id:-101
+nl:آیداهو
+mrl:
+productions:
+*n:StateName -> ({ ' idaho ' })
+
+id:-102
+nl:اوهایو
+mrl:
+productions:
+*n:StateName -> ({ ' idaho ' })
+
+id:-103
+nl:آلبانی
+mrl:
+productions:
+*n:CityName -> ({ ' albany ' })
+
+id:-104
+nl:رد
+mrl:
+productions:
+*n:RiverName -> ({ ' red ' })
+
+id:-105
+nl:بوستون
+mrl:
+productions:
+*n:CityName -> ({ ' boston ' })
+
+id:-106
+nl:تنسی
+mrl:
+productions:
+*n:StateName -> ({ ' tennessee ' })
+
+id:-107
+nl:روچستر
+mrl:
+productions:
+*n:CityName -> ({ ' rochester ' })
+
+id:-108
+nl:اسپرینگفیلد
+mrl:
+productions:
+*n:CityName -> ({ ' springfield ' })
+
+id:-109
+nl:میشیگان
+mrl:
+productions:
+*n:StateName -> ({ ' michigan ' })
+
+id:-110
+nl:ساکرامنتو
+mrl:
+productions:
+*n:CityName -> ({ ' sacramento ' })
+
+id:-111
+nl:سن آنتونیو
+mrl:
+productions:
+*n:CityName -> ({ ' san antonio ' })
+
+id:-112
+nl:کارولینای شمالی
+mrl:
+productions:
+*n:StateName -> ({ ' north carolina ' })
+
+id:-113
+nl:نورث کارولینا
+mrl:
+productions:
+*n:StateName -> ({ ' north carolina ' })
+
+id:-114
+nl:اکلاهما
+mrl:
+productions:
+*n:StateName -> ({ ' oklahoma ' })
+
+id:-115
+nl:ورمونت
+mrl:
+productions:
+*n:StateName -> ({ ' vermont ' })
+
+id:-116
+nl:ایلینویز
+mrl:
+productions:
+*n:StateName -> ({ ' illinois ' })
+
+id:-117
+nl:ایلینوی
+mrl:
+productions:
+*n:StateName -> ({ ' illinois ' })
+
+id:-118
+nl:ایندیانا
+mrl:
+productions:
+*n:StateName -> ({ ' indiana ' })
+
+id:-119
+nl:ایندیاناست
+mrl:
+productions:
+*n:StateName -> ({ ' indiana ' })
+
+id:-120
+nl:پوتوماک
+mrl:
+productions:
+*n:RiverName -> ({ ' potomac ' })
+
+id:-121
+nl:ماین
+mrl:
+productions:
+*n:StateName -> ({ ' maine ' })
+
+id:-122
+nl:مین
+mrl:
+productions:
+*n:StateName -> ({ ' maine ' })
+
+id:-123
+nl:مریلند
+mrl:
+productions:
+*n:StateName -> ({ ' maryland ' })
+
+id:-124
+nl:سیاتل
+mrl:
+productions:
+*n:CityName -> ({ ' seattle ' })
+
+id:-125
+nl:کالیفرنیای جنوبی
+mrl:
+productions:
+*n:StateName -> ({ ' south carolina ' })
+
+id:-126
+nl:ویسکانسین
+mrl:
+productions:
+*n:StateName -> ({ ' wisconsin ' })
+
+id:-127
+nl:ویسکونسین
+mrl:
+productions:
+*n:StateName -> ({ ' wisconsin ' })
+
+id:-128
+nl:ویسکنسین
+mrl:
+productions:
+*n:StateName -> ({ ' wisconsin ' })
+
+id:-129
+nl:نیوجرسی
+mrl:
+productions:
+*n:StateName -> ({ ' new jersey ' })
+
+id:-130
+nl:دورهام
+mrl:
+productions:
+*n:CityName -> ({ ' durham ' })
+
+id:-131
+nl:دث ولی
+mrl:
+productions:
+*n:PlaceName -> ({ ' death valley ' })
+
+id:-132
+nl:سطح دریا
+mrl:
+productions:
+*n:Num -> ({ ' 0 ' })
+
+id:-133
+nl:دس موینز
+mrl:
+productions:
+*n:CityName -> ({ ' des moines ' })
+
+id:-134
+nl:دس موییز
+mrl:
+productions:
+*n:CityName -> ({ ' des moines ' })
+
+id:-135
+nl:مینه سوتا
+mrl:
+productions:
+*n:StateName -> ({ ' minnesota ' })
+
+id:-136
+nl:کنتاکی
+mrl:
+productions:
+*n:StateName -> ({ ' kentucky ' })
+
+id:-137
+nl:آتلانتا
+mrl:
+productions:
+*n:CityName -> ({ ' atlanta ' })
+
+id:-138
+nl:آتلانتاست
+mrl:
+productions:
+*n:CityName -> ({ ' atlanta ' })
+
+id:-139
+nl:ga
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' ga ' })
+
+id:-140
+nl:ماساچوست
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' ma ' })
+
+id:-141
+nl:دالاس
+mrl:
+productions:
+*n:CityName -> ({ ' dallas ' })
+
+id:-142
+nl:دنور
+mrl:
+productions:
+*n:CityName -> ({ ' denver ' })
+
+id:-143
+nl:ایری
+mrl:
+productions:
+*n:CityName -> ({ ' erie ' })
+
+id:-144
+nl:پنسیلوانیا
+mrl:
+productions:
+*n:CityName -> ({ ' erie ' })
+
+id:-145
+nl:پنسیلوانیا
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' pa ' })
+
+id:-146
+nl:پورتلند
+mrl:
+productions:
+*n:CityName -> ({ ' portland ' })
+
+id:-147
+nl:پروتلند
+mrl:
+productions:
+*n:CityName -> ({ ' portland ' })
+
+id:-148
+nl:ماین
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' me ' })
+
+id:-149
+nl:پورتلند مین
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' me ' })
+
+id:-150
+nl:میسوری
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' mo ' })
+
+id:-151
+nl:مسیوری
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' mo ' })
+
+id:-152
+nl:داکوتای جنوبی
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' sd ' })
+
+id:-153
+nl:تمپه
+mrl:
+productions:
+*n:CityName -> ({ ' tempe ' })
+
+id:-154
+nl:آریزونا
+mrl:
+productions:
+*n:StateAbbrev -> ({ ' az ' })
+
+id:-155
+nl:توکسان
+mrl:
+productions:
+*n:CityName -> ({ ' tucson ' })
+
+id:-156
+nl:وست ویرجینیا
+mrl:
+productions:
+*n:StateName -> ({ ' west virginia ' })
+
+id:-157
+nl:سالم
+mrl:
+productions:
+*n:CityName -> ({ ' salem ' })
+
+id:-158
+nl:فلینت
+mrl:
+productions:
+*n:CityName -> ({ ' flint ' })
+
+id:-159
+nl:کلمبوس
+mrl:
+productions:
+*n:CityName -> ({ ' columbus ' })
+
+id:-160
+nl:میامی
+mrl:
+productions:
+*n:CityName -> ({ ' miami ' })
+
+id:-161
+nl:پطزبورگ
+mrl:
+productions:
+*n:CityName -> ({ ' pittsburgh ' })
+
+id:-162
+nl:دوور
+mrl:
+productions:
+*n:CityName -> ({ ' dover ' })
+
+id:-163
+nl:پلانو
+mrl:
+productions:
+*n:CityName -> ({ ' plano ' })
+
+id:-164
+nl:سالت سیتی
+mrl:
+productions:
+*n:CityName -> ({ ' salt lake city ' })
+
+id:-165
+nl:سالت لیک
+mrl:
+productions:
+*n:CityName -> ({ ' salt lake city ' })
+
+id:-166
+nl:باتون راگ
+mrl:
+productions:
+*n:CityName -> ({ ' baton rouge ' })
+
+id:-167
+nl:فورت واین
+mrl:
+productions:
+*n:CityName -> ({ ' fort wayne ' })
+
+id:-168
+nl:ایندیاناپولیس
+mrl:
+productions:
+*n:CityName -> ({ ' indianapolis ' })
+
+id:-169
+nl:مونت ویتنی
+mrl:
+productions:
+*n:PlaceName -> ({ ' mount whitney ' })
+
+id:-170
+nl:نیو اورلئان
+mrl:
+productions:
+*n:CityName -> ({ ' new orleans ' })
+
+id:-171
+nl:سن دیگو
+mrl:
+productions:
+*n:CityName -> ({ ' san diego ' })
+
+id:-172
+nl:سن خوزه
+mrl:
+productions:
+*n:CityName -> ({ ' san jose ' })
+
+id:-173
+nl:اسکاتس ولی
+mrl:
+productions:
+*n:CityName -> ({ ' scotts valley ' })
+
+id:-174
+nl:چاتاهوچی
+mrl:
+productions:
+*n:RiverName -> ({ ' chattahoochee ' })
+
