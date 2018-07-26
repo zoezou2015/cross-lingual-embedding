@@ -76,7 +76,17 @@ bash embedding_neural_run.sh <lang1> <lang2> ... <langN>
 
 ## Cite 
 ```
-TBD
+@InProceedings{yanyan-18-cross,
+  author    = {Yanyan, Zou and Wei, Lu},
+  title     = {Learning Cross-lingual Distributed Logical Representations
+for Semantic Parsing},
+  booktitle = {Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics},
+  month     = {July},
+  year      = {2018},
+  address   = {Melbourne, Australia},
+  publisher = {Association for Computational Linguistics},
+}
+```
 ```
 
 ## Contact
