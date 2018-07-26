@@ -78,8 +78,7 @@ bash embedding_neural_run.sh <lang1> <lang2> ... <langN>
 ```
 @InProceedings{yanyan-18-cross,
   author    = {Yanyan, Zou and Wei, Lu},
-  title     = {Learning Cross-lingual Distributed Logical Representations
-for Semantic Parsing},
+  title     = {Learning Cross-lingual Distributed Logical Representations for Semantic Parsing},
   booktitle = {Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics},
   month     = {July},
   year      = {2018},
